@@ -1,5 +1,5 @@
 # EmojiReader
-This is a simple application using UITableView
+This is a simple application using UITableView and built on MVC architecture.
 ## About
 This is a simple application using UITableView. It will allow you to add emoticons to your favorites list, delete them, add new ones, change the order, edit them.
 <p align="lefr">
